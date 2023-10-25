@@ -1,0 +1,212 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.nav {
+    display: inline-block;
+    padding: 2px;
+}
+
+.id {
+    float: right;
+    padding: 10px;
+    /* font-size: medium; */
+}
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: blue;
+
+    width: 55px;
+    height: 35px;
+    border-radius: 10px;
+    font-size: larger;
+    border: 2px solid white;
+}
+
+.ah {
+    color: white;
+    /* padding: 20px; */
+     font-size: 15px; 
+    text-align: center;
+    width: 60px;
+    height: 40px;
+    cursor: pointer; 
+}
+
+.ah:hover {
+    background-color: rgb(36, 36, 240);
+}
+
+.img {
+    background-color: lightgray;
+}
+
+
+
+.forget {
+    text-decoration: none;
+    color: rgb(82, 144, 236);
+    cursor: pointer;
+}
+
+.forget:hover {
+    text-decoration: underline;
+}
+
+.email {
+    border: none;
+    border: 1px solid lightgrey;
+}
+
+.password {
+    border: none;
+    border: 1px solid lightgrey;
+}
+
+.email:hover {
+    border-color: black;
+}
+
+.password:hover {
+    border-color: black;
+}
+
+.email:focus {
+    border: none;
+    /* border: 1px solid blue; */
+}
+
+.password:focus {
+    border: none;
+    /* border: 1px solid blue; */
+}
+
+.circle {
+    border-radius: 50px;
+}
+
+.img1 {
+    border-radius: 60%;
+    position: absolute;
+    bottom: 14%;
+    left: 22%;
+
+}
+
+.img1 {
+    border: 5px solid white;
+}
+
+.h1 {
+    position: absolute;
+    bottom: 20%;
+    left: 38%;
+    font-size: medium;
+    color: black;
+}
+
+.link {
+
+    position: absolute;
+    bottom: 16.5%;
+    left: 38%;
+    /* color: blue; */
+    text-decoration: none;
+}
+
+.link {
+    display: inline-block;
+    /* text-decoration: none; */
+    font-size: large;
+}
+
+.horizontal-line {
+    width: 58%;
+    height: 1px;
+    /* Adjust the height as needed */
+    background-color: rgb(176, 173, 173);
+    /* Adjust the color as needed */
+    margin: 20px 0;
+    /* Adjust the margin as needed */
+}
+
+.horizontal-line {
+    bottom: 8%;
+    left: 290px;
+
+}
+
+.links {
+    margin-top: 130px;
+    margin-left: 300px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: lighter;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: 700;
+
+    /* color: rgb(77, 76, 76); */
+
+}
+
+.button {
+    background-color: rgb(222, 218, 218);
+    color: rgb(0, 0, 0);
+    margin-left: 420px;
+}
+
+.abc {
+    padding-left: 12px;
+    color: black;
+    margin-top: -140px;
+}
+
+.horizontal-line {
+    bottom: -20%;
+    left: 22%px;
+}
+
+
+
+
+.bordr {
+    width: 50%;
+    height: 50%;
+}
+
+.intro {
+    background-color: white;
+    /* padding: 100%; */
+    margin-top: 11%;
+    border-radius: 4px;
+    width: 28%;
+    margin-left: 270px;
+    margin-top: 150px;
+    float: left;
+
+
+}
+.main{
+    background-color: rgb(240, 242, 245);
+}
+
+.abcd{
+    float: right;
+    overflow: scroll;
+    height: 800px;
+}
